@@ -58,8 +58,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Amine Akrout",
+        "meta_descr": "Portfolio Amine Akrout \nData Scientist",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
