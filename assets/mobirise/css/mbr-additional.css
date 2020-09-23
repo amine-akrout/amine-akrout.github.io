@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 
 
 
@@ -16,7 +17,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -735,22 +736,58 @@ section.lazy-placeholder:after {
     margin: auto;
   }
 }
+.cid-sboQJXtSqY {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sboQJXtSqY .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+  text-align: left;
+}
+.cid-sboQJXtSqY .mbr-content-text {
+  color: #767676;
+}
+.cid-sboQJXtSqY .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-sboQJXtSqY .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-sboQJXtSqY .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-sboQJXtSqY .img-text {
+  color: #232323;
+}
 .cid-s62jAfDVFF {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-s62jAfDVFF P {
   color: #767676;
 }
 .cid-s62jAfDVFF H1 {
-  text-align: center;
-  color: #efefef;
+  text-align: left;
+  color: #232323;
 }
 .cid-s319GmfoJg {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-s319GmfoJg .card-box {
   padding: 0 2rem;
@@ -794,7 +831,7 @@ section.lazy-placeholder:after {
 .cid-s4kA7v8N7r {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-s4kA7v8N7r .card-box {
   padding: 0 2rem;
@@ -838,7 +875,7 @@ section.lazy-placeholder:after {
 .cid-saJSFTbiaC {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-saJSFTbiaC .card-box {
   padding: 0 2rem;
