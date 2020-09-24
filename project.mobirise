@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#06744f",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -33,7 +33,8 @@
         "#304fbc",
         "#2c8ab1",
         "#2c7ab6",
-        "#000000"
+        "#000000",
+        "#06744f"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -250,7 +251,7 @@
             },
             "H1": {
               "text-align": "center",
-              "color": "#073b4c"
+              "color": "#000000"
             }
           },
           "_name": "header16",
