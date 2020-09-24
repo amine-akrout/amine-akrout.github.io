@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
 
@@ -9,12 +10,12 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 1.92rem;
 }
 .display-2 {
   font-family: 'Oswald', sans-serif;
@@ -55,9 +56,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -712,9 +713,9 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-sboTX3Tby2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1920x1152.jpg");
 }
 .cid-sboTX3Tby2 .media-container-column {
   align-items: center;
@@ -729,8 +730,8 @@ section.lazy-placeholder:after {
   -webkit-flex-basis: auto;
 }
 .cid-sboTX3Tby2 .mbr-testimonial .panel-item {
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
 }
 .cid-sboTX3Tby2 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -768,7 +769,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sboTX3Tby2 .mbr-text {
-  color: #232323;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-sboQJXtSqY {
   padding-top: 0px;
@@ -1222,6 +1224,84 @@ section.lazy-placeholder:after {
   .cid-sbk4uNr6cQ .inner-container {
     width: 100% !important;
   }
+}
+.cid-sbiCVaEktb {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-sbiCVaEktb .row-links {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sbiCVaEktb .social-row {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sbiCVaEktb .media-container-row {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-sbiCVaEktb .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-sbiCVaEktb .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-sbiCVaEktb .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-sbiCVaEktb .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-sbiCVaEktb .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-sbiCVaEktb .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-sbiCVaEktb .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-sbiCVaEktb .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-sbiCVaEktb .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-sbiCVaEktb .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-sbiCVaEktb .media-container-row .row-copirayt p {
+  width: 100%;
 }
 .cid-sbiCVaEktb {
   padding-top: 75px;
