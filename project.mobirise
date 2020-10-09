@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-26_1339",
-    "currentPage": "lstm.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -76,7 +76,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 60,
+    "uniqCompNum": 68,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true
@@ -613,7 +613,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "lstm",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -728,7 +728,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "coming_soon",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -771,7 +771,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Page 3",
-        "order": 1
+        "order": 2
       },
       "components": []
     }
