@@ -60,13 +60,13 @@
     },
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": "@PROJECT_PATH@/assets/images/amine-akrout-2-128x61.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x133.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "zbzqcnqv3s"
+    "mbrsiteDomain": "g7kwyn63lf"
   },
   "pages": {
     "education.html": {
