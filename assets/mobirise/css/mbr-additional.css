@@ -2437,69 +2437,69 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
-.cid-sSlKY0byJh {
+.cid-sSlRonLlij {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/background3-1.jpeg");
+  background-image: url("../../../assets/images/background3.jpg");
 }
-.cid-sSlKY0byJh .mbr-overlay {
-  background: #fff5f5;
-  opacity: 0.8;
+.cid-sSlRonLlij .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.7;
 }
-.cid-sSlKY0byJh img,
-.cid-sSlKY0byJh .item-img {
+.cid-sSlRonLlij img,
+.cid-sSlRonLlij .item-img {
   width: 100%;
   height: 100%;
   height: 200px;
   object-fit: cover;
 }
-.cid-sSlKY0byJh .item:focus,
-.cid-sSlKY0byJh span:focus {
+.cid-sSlRonLlij .item:focus,
+.cid-sSlRonLlij span:focus {
   outline: none;
 }
-.cid-sSlKY0byJh .item {
+.cid-sSlRonLlij .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-sSlKY0byJh .item-wrapper {
+.cid-sSlRonLlij .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #eff4ff;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-sSlKY0byJh .item-wrapper .item-content {
+  .cid-sSlRonLlij .item-wrapper .item-content {
     padding: 2rem 2rem 0;
   }
-  .cid-sSlKY0byJh .item-wrapper .item-footer {
+  .cid-sSlRonLlij .item-wrapper .item-footer {
     padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-sSlKY0byJh .item-wrapper .item-content {
+  .cid-sSlRonLlij .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-sSlKY0byJh .item-wrapper .item-footer {
+  .cid-sSlRonLlij .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-sSlKY0byJh .mbr-section-btn {
+.cid-sSlRonLlij .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-sSlKY0byJh .mbr-section-title {
-  color: #000000;
+.cid-sSlRonLlij .mbr-section-title {
+  color: #232323;
   text-align: left;
 }
-.cid-sSlKY0byJh .mbr-text,
-.cid-sSlKY0byJh .mbr-section-btn {
+.cid-sSlRonLlij .mbr-text,
+.cid-sSlRonLlij .mbr-section-btn {
   text-align: left;
 }
-.cid-sSlKY0byJh .item-title {
+.cid-sSlRonLlij .item-title {
   text-align: left;
 }
-.cid-sSlKY0byJh .item-subtitle {
+.cid-sSlRonLlij .item-subtitle {
   text-align: left;
   color: #bbbbbb;
 }
