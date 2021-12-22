@@ -2365,7 +2365,7 @@ a {
 }
 .cid-sph7jgaLJ8 {
   padding-top: 2rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #d4e0f5;
 }
 .cid-sph7jgaLJ8 .mbr-section-title {
@@ -2437,9 +2437,75 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-sSlKY0byJh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/background3-1.jpeg");
+}
+.cid-sSlKY0byJh .mbr-overlay {
+  background: #fff5f5;
+  opacity: 0.8;
+}
+.cid-sSlKY0byJh img,
+.cid-sSlKY0byJh .item-img {
+  width: 100%;
+  height: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+.cid-sSlKY0byJh .item:focus,
+.cid-sSlKY0byJh span:focus {
+  outline: none;
+}
+.cid-sSlKY0byJh .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sSlKY0byJh .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #eff4ff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sSlKY0byJh .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-sSlKY0byJh .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sSlKY0byJh .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-sSlKY0byJh .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-sSlKY0byJh .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sSlKY0byJh .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+.cid-sSlKY0byJh .mbr-text,
+.cid-sSlKY0byJh .mbr-section-btn {
+  text-align: left;
+}
+.cid-sSlKY0byJh .item-title {
+  text-align: left;
+}
+.cid-sSlKY0byJh .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
+}
 .cid-sphh5YwBFi {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/background3-1.jpeg");
 }
 .cid-sphh5YwBFi .mbr-overlay {
@@ -2504,7 +2570,7 @@ a {
   color: #bbbbbb;
 }
 .cid-sphh71YfbI {
-  padding-top: 1rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/mbr-1-1920x1281.jpg");
 }
